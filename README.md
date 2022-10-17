@@ -1,5 +1,5 @@
 # Wine-Quality-Prediction
-This project aims to determine which features are the best quality red wine indicators and generate insights into each of these factors to our model's red wine quality. Wine quality prediction using random forest algorithm
+This project aims to determine which features are the best quality red wine indicators and generate insights into each of these factors to our model's red wine quality.
 
 ## :chart_with_upwards_trend: Description Of The Model
 ### Understand and Visualize Data
